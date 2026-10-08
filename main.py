@@ -130,7 +130,7 @@ FORCE_JOIN_CHANNELS = {
     "@CUTELOVE_0": "@CUTELOVE_0",
 }
 FORCE_JOIN_SLOT_KEYS = tuple(f"force_join_{index}" for index in range(1, 6))
-DEFAULT_FORCE_JOIN_CHANNEL = "@GYAGANG"
+DEFAULT_FORCE_JOIN_CHANNEL = "@CUTELOVE_0"
 
 # --- Windows/RDP hosting storage setup ---
 # The bot code itself may live on C:, but hosting data is kept on the
